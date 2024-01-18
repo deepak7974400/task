@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar-nav {
+    font-weight: bold;
+    font-size: 15px;
+    margin-left: 20px;
+}
+.phone{
+    width: 40px;
+    height: 40px;
+    padding-left: 13px;
+    padding-top: 12px;
+    border-radius: 50px;
+    background: #f09a45;
+}
+.greenbox{
+    background-image:url(../images/greenbox.jpeg);
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
+.ourheat{
+    text-align: justify;
+    padding-top: 85px;
+    line-height: 44px;
+}
+.rescue{
+    text-align: justify;
+    padding-left: 25px;
+    margin-top: 40px;
+    color: rgb(21, 226, 21);
+    font-weight: bold;
+    font-size: 20px;
+}
+.cards{
+    border-radius: 0 30px 0px;
+    background:rgb(43, 205, 43);
+    
+}
+.fa-solid{
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    padding-top: 18px;
+    padding-left: 35px;
+
+}
+.fafa{
+    background: #f7950c;
+}
+.appointment{
+    border-radius: 0 20px 0;
+}
+.love{
+    padding-top: 40px;
+    background: #ebf7f0;
+}
+.book{
+    padding-left: 400px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+.bookbtn{
+    width: 250px;
+    font-weight: bold;
+    color: white;
+    background: #f7950c;
+    
+    border-radius: 50px;
+}
+.customer{
+    text-align: center;
+    padding-top: 200px;
+}
+.enquiure{
+    padding-top: 80px;
+    font-weight: bold;
+    background: #1cf22a;
+}
